@@ -1,0 +1,7 @@
+pylsl
+numpy
+neurokit2
+streamlit
+pandas
+matplotlib
+altair
