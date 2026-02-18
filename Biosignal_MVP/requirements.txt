@@ -1,0 +1,5 @@
+pylsl
+numpy
+scipy
+neurokit2
+bleak
